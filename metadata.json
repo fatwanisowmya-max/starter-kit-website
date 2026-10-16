@@ -1,0 +1,6 @@
+{
+  "name": "START. - Curated Starter Kits",
+  "description": "Discover curated starter kits with essential tools, beginner guides, and inspiration to start a new hobby, lifestyle, or experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
